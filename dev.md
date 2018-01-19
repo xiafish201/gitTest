@@ -6,4 +6,6 @@
 6.修复完成合并到dev、master
 
 再次增减功能时，从dev分支checkout一个feature分支
+在feature分支上进行开发，迭代若干版本后，merge到dev分支上
+
 
