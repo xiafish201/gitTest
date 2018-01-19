@@ -5,3 +5,5 @@
 5.直接在release上进行bug修复
 6.修复完成合并到dev、master
 
+再次增减功能时，从dev分支checkout一个feature分支
+
