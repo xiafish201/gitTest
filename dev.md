@@ -12,3 +12,13 @@
 在master上打tag
 这时可以删除featur、releasee分支
 
+============
+标签管理
+# 列出所有tag
+git tag
+
+# 新建一个tag在当前指定commit
+git tag [tag]
+
+
+
